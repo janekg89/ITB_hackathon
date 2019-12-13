@@ -10,3 +10,4 @@ The general purpose is to improve coding skills and have fun.
 Proposals for what we want to work on:
  * machine learning competitions on [kaggle](https://www.kaggle.com/).
  * work related code review.
+ * reproduce some single-cell analysis https://scanpy.readthedocs.io/en/stable/tutorials.html
